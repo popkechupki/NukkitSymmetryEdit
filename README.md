@@ -1,2 +1,8 @@
 # NukkitSymmetryEdit
- Edit for blocks automatically.
+ Edit for blocks automatically.  
+ 左右対称な建物を作りたいときに使えるプラグイン。X軸(東西)とZ軸(南北)を中心線として線対称にブロックを設置できます。
+# How to use
+1. 中心線を設定したい向きで"/symmetry"を実行します。
+2. ブロックを設置または破壊すると、設定した中心線を基準に線対称にあるブロックを自動的に編集します。
+3. 中心線の向きを変更したい場合は、1. と同じように新たな中心線の上で線の向きを向いて"/symmetry reset"を実行します。
+4. このプラグインの機能をオフにするには、"/symmetry"を実行してください。
