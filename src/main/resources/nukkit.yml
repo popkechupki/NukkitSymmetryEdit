@@ -4,7 +4,7 @@ load: POSTWORLD
 version: 1.1.0
 author: popkechupki
 api: ["1.0.0"]
-description: ブロックを設置または破壊時に自動的に対象にあるブロックを同様に操作する
+description: ブロックを設置または破壊時に自動的に対称にあるブロックを同様に操作する
 
 commands:
   symmetry:
